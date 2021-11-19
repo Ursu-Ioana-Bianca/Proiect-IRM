@@ -1,8 +1,17 @@
 fileFormatVersion: 2
-guid: c6e51ca701474f8458ff87e93a5f552b
+guid: a5fc690f11eda2849a4dca21ad0a7297
 ModelImporter:
   serializedVersion: 20200
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      74: -1427971478513663375
+    second: Winner.001
+  - first:
+      74: -982115091633673366
+    second: Armature|Death
+  - first:
+      74: -3576853218113085615
+    second: Armature|Winner
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -94,7 +103,7 @@ ModelImporter:
   autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
+  avatarSetup: 1
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   additionalBone: 0
   userData: 
